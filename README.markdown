@@ -5,8 +5,8 @@
 ---
 
 ## 👨‍💻 Developer
-**Pratham Babre**  
-*Full Stack Developer*
+**Vijay Babre**  
+*Frontend Developer*
 
 ---
 
