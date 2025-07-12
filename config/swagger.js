@@ -9,7 +9,7 @@ const swaggerDefinition = {
   },
   servers: [
     {
-      url: 'http://localhost:5000/api',
+      url: 'https://gemini-backend-gox1.onrender.com/api',
       description: 'Development server',
     },
   ],
